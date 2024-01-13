@@ -1,0 +1,144 @@
+ 18:04:51.676 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+18:04:51.784 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+18:04:55.781 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+18:04:55.783 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+18:05:51.273 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+18:05:51.273 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+18:08:35.592 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+18:08:35.595 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+18:08:35.699 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+18:08:38.319 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+18:08:38.320 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+18:09:33.784 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+18:09:33.784 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+18:19:12.512 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+18:19:12.523 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+18:19:12.986 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+18:19:13.946 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+18:19:13.954 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+18:20:10.568 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+18:20:10.568 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+18:32:36.753 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+18:32:36.761 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+18:32:36.929 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+18:32:37.763 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+18:32:37.782 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+18:33:25.088 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+18:33:25.098 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+18:33:25.336 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+18:33:27.134 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+18:33:27.134 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+18:38:26.828 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+18:38:26.840 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+18:38:27.127 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+18:38:29.688 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+18:38:29.698 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+18:39:21.490 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+18:39:21.490 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+16:40:33.347 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+16:40:33.587 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+16:40:34.563 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+16:40:36.361 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+16:40:36.632 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+16:41:28.581 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+16:41:28.581 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+16:56:30.361 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+16:56:30.368 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+16:56:30.564 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+16:56:32.941 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+16:56:32.945 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+16:57:24.819 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+16:57:24.819 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+16:58:02.188 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+16:58:02.201 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+16:58:02.639 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+16:58:03.854 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+16:58:03.860 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+16:58:55.121 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+16:58:55.121 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+17:06:52.828 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+17:06:52.837 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+17:06:53.137 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+17:06:55.247 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+17:06:55.248 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+17:06:55.410 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+17:06:56.246 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+17:06:56.251 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+17:06:57.232 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+17:06:57.237 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+17:07:47.760 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+17:07:47.760 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+17:07:48.472 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+17:07:48.472 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+17:24:10.867 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+17:24:10.878 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+17:24:11.091 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+17:24:13.819 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+17:24:13.822 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+17:25:05.741 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+17:25:05.741 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+17:52:17.441 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+17:52:17.449 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+17:52:17.671 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+17:52:19.551 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+17:52:19.554 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+17:53:10.984 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+17:53:10.984 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+18:00:59.141 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+18:00:59.152 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+18:00:59.419 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+18:01:01.563 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+18:01:01.652 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+18:03:38.302 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs..............
+18:03:38.311 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+18:03:38.821 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+18:03:39.960 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+18:03:39.969 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+18:03:41.523 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+18:03:41.523 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+18:37:07.365 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_LoginTest******* 
+18:39:52.413 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_LoginTest******* 
+18:46:57.905 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_LoginTest******* 
+18:20:57.896 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_LoginTest******* 
+19:23:07.178 [main] INFO  testCases.TC_003_LoginDDT - *******starting TC_003_LoginDDT********
+19:23:23.661 [main] INFO  testCases.TC_003_LoginDDT - *******starting TC_003_LoginDDT********
+19:23:39.679 [main] INFO  testCases.TC_003_LoginDDT - *******starting TC_003_LoginDDT********
+19:23:55.712 [main] INFO  testCases.TC_003_LoginDDT - *******starting TC_003_LoginDDT********
+19:24:11.746 [main] INFO  testCases.TC_003_LoginDDT - *******starting TC_003_LoginDDT********
+19:30:54.789 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_LoginTest******* 
+17:08:53.576 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_LoginTest******* 
+17:10:56.398 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+17:10:56.771 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+17:10:59.660 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+17:10:59.732 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+17:11:02.135 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+17:11:02.136 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+17:11:51.908 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+17:11:52.463 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+17:11:53.300 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+17:11:53.302 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+17:11:54.332 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+17:11:54.333 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+17:12:02.799 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_LoginTest******* 
+16:41:15.170 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+16:41:15.665 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+16:41:16.540 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+16:41:16.551 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+16:41:26.797 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_LoginTest******* 
+16:44:04.225 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+16:44:04.533 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+16:44:27.661 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_LoginTest******* 
+16:45:27.573 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+16:45:27.701 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+16:45:30.505 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+16:45:30.507 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+16:45:31.077 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+16:45:31.077 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
+16:45:40.080 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_LoginTest******* 
+16:48:32.505 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_LoginTest******* 
+16:50:29.049 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** statrting TC_001_AccountRegistrationTest ****
+16:50:29.160 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on myaccount
+16:50:31.814 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register
+16:50:31.816 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing new data
+16:50:32.411 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue 
+16:50:32.411 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest ****
